@@ -1,0 +1,1 @@
+In this course, I learned the basics of inference and modeling, two of the most widely used statistical tools in data analysis, using R. I have completed this course. Please view my certificate of achievement at https://courses.edx.org/certificates/fd46efb7e1194a748ae27b0fa9b78133
